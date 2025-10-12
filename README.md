@@ -1,0 +1,4 @@
+# Robotics with Python
+
+In this repo you can find useful examples of Robotics 3D Simulations.\
+All the projects are documented on [*Medium*](https://maurodp.medium.com/) and [*TowardsDataScience*](https://towardsdatascience.com/author/maurodp/)
