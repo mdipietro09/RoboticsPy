@@ -8,3 +8,5 @@ All the projects are documented on [*Medium*](https://maurodp.medium.com/) and [
 					<img src="_docs/arm.gif" width="400" height="300">
 	</p>
 <br>
+	<p align="left"><img src="_docs/human.gif" width="400" height="300">
+	</p>
