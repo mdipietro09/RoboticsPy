@@ -11,5 +11,5 @@ Here some of my fails:
 					<img src="_docs/arm.gif" width="400" height="300">
 	</p>
 	<p align="left"><img src="_docs/human.gif" width="400" height="300">
-					<img src="_docs/ant.gif" width="400" height="500">
+					<img src="_docs/ant.gif" width="400" height="600">
 	</p>
