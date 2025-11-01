@@ -82,15 +82,15 @@
   </worldbody>
   
   <actuator>
-    <!--ADD FORCE: gear from 150 to 500-->
-    <motor ctrllimited="true" ctrlrange="-1.0 1.0" joint="hip_4" gear="500"/> 
-    <motor ctrllimited="true" ctrlrange="-1.0 1.0" joint="ankle_4" gear="500"/>
-    <motor ctrllimited="true" ctrlrange="-1.0 1.0" joint="hip_1" gear="500"/>
-    <motor ctrllimited="true" ctrlrange="-1.0 1.0" joint="ankle_1" gear="500"/>
-    <motor ctrllimited="true" ctrlrange="-1.0 1.0" joint="hip_2" gear="500"/>
-    <motor ctrllimited="true" ctrlrange="-1.0 1.0" joint="ankle_2" gear="500"/>
-    <motor ctrllimited="true" ctrlrange="-1.0 1.0" joint="hip_3" gear="500"/>
-    <motor ctrllimited="true" ctrlrange="-1.0 1.0" joint="ankle_3" gear="500"/>
+    <!--ADD FORCE: gear from 150 to 300-->
+    <motor ctrllimited="true" ctrlrange="-1.0 1.0" joint="hip_4" gear="300"/> 
+    <motor ctrllimited="true" ctrlrange="-1.0 1.0" joint="ankle_4" gear="300"/>
+    <motor ctrllimited="true" ctrlrange="-1.0 1.0" joint="hip_1" gear="300"/>
+    <motor ctrllimited="true" ctrlrange="-1.0 1.0" joint="ankle_1" gear="300"/>
+    <motor ctrllimited="true" ctrlrange="-1.0 1.0" joint="hip_2" gear="300"/>
+    <motor ctrllimited="true" ctrlrange="-1.0 1.0" joint="ankle_2" gear="300"/>
+    <motor ctrllimited="true" ctrlrange="-1.0 1.0" joint="hip_3" gear="300"/>
+    <motor ctrllimited="true" ctrlrange="-1.0 1.0" joint="ankle_3" gear="300"/>
   </actuator>
 
 </mujoco>
