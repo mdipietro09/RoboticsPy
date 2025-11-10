@@ -6,10 +6,11 @@ All the projects are documented on [*Medium*](https://maurodp.medium.com/) and [
 <br>
 Here some of my fails:
 <br>
-<br>
+<br>PyBullet
 	<p align="left"><img src="_docs/r2d2.gif" width="400" height="300">
 					<img src="_docs/arm.gif" width="400" height="300">
 	</p>
+	MuJoCo
 	<p align="left"><img src="_docs/human.gif" width="400" height="300">
 					<img src="_docs/ant.gif" width="400" height="300">
 	</p>
